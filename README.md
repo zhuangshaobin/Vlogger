@@ -1,7 +1,6 @@
 <div align="center">
 
-<a href="https://arxiv.org/abs/2401.09414">
-<img width="743" alt="image" src="https://github.com/zhuangshaobin/Vlogger/assets/24236723/2885982e-5b18-48b3-97b1-966298329350">
+<h1 align="center">Vlogger: Make Your Dream A Vlog</h1>
 </a>
 
 [Shaobin Zhuang](https://github.com/zhuangshaobin), [Kunchang Li](https://scholar.google.com/citations?user=D4tLSbsAAAAJ), [Xinyuan Chen†](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Yaohui Wang†](https://scholar.google.com/citations?user=R7LyAb4AAAAJ), [Ziwei Liu](https://scholar.google.com/citations?user=lc45xlcAAAAJ), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl), [Yali Wang†](https://scholar.google.com/citations?user=hD948dkAAAAJ)
